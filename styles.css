@@ -1,0 +1,505 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Nunito Sans", sans-serif;
+}
+
+h1 {
+  font-family: "Georgia", sans-serif;
+}
+
+.first-h1 {
+  font-family: "Georgia", sans-serif;
+  font-size: 250%;
+  font-weight: bolder;
+  margin-top: 10px;
+  width: 400px;
+}
+
+.left-gr-div {
+  width: 640px;
+  height: 333px;
+  margin: auto;
+}
+
+.grouped-objects {
+  width: 640px;
+}
+
+p {
+  line-height: 1.5;
+}
+
+.button {
+  font-family: Nunito Sans;
+  height: 48px;
+  width: 169px;
+  margin-top: 32px;
+  margin-bottom: 10px;
+  color: #ffffff;
+  font-weight: bolder;
+  font-size: 20px;
+  background-color: #773dd3;
+  text-align: center;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+}
+
+.lovepng {
+  position: relative;
+  top: 20px;
+  right: 20px;
+  margin-bottom: 60px;
+}
+
+.first-paragraph {
+  margin-top: 24px;
+  margin-bottom: 32px;
+}
+
+.crownpng {
+  display: flex;
+  position: relative;
+  left: 130px;
+  top: 20px;
+}
+
+.ambassador {
+  text-decoration: underline;
+}
+.amb-1 {
+  color: #773dd3;
+}
+
+.first-contain {
+  background-color: #efe5ff;
+}
+
+.intro-row {
+  display: flex;
+  width: 1280px;
+  margin: auto;
+  padding: 80px 0 80px 0;
+}
+
+.left-div {
+  width: 640px;
+  height: 632.44px;
+  text-align: left;
+  padding: 10px;
+}
+
+.right-div {
+  width: 640px;
+  height: 632.44px;
+}
+
+.middle-1 {
+  background-color: #f9f5ff;
+  padding: 80px;
+}
+
+.All-grouped {
+  width: 960px;
+  height: 964px;
+  gap: 32px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 320px;
+  padding-top: 10px;
+}
+
+.envelope {
+  margin-top: 51.3px;
+  margin-left: 24px;
+  margin-right: px;
+}
+
+.exclusive {
+  margin-top: 24px;
+  margin-bottom: 8px;
+  margin-left: 24px;
+  margin-right: 24px;
+}
+
+.en-pem {
+  margin-top: 8px;
+  margin-bottom: 51.3px;
+  margin-left: 24px;
+  margin-right: 24px;
+}
+
+.exclusive1 {
+  width: 468px;
+  text-align: left;
+  background-color: #ffffff;
+  border-radius: 16px;
+  border: 1px;
+  padding: 24px;
+  gap: 24px;
+  border-color: #dddddd;
+}
+
+.get1 {
+  display: flex;
+  width: 960px;
+  gap: 24px;
+  margin: 32px 0;
+}
+
+.middle-2 {
+  padding-top: 50px;
+}
+
+.second-row {
+  display: flex;
+  gap: 80px;
+  margin-top: 50px;
+  height: 663.6px;
+}
+.image-twogirls {
+  width: 761px;
+  height: 663.6px;
+}
+
+.ev-h1 {
+  width: 500px;
+  margin: auto;
+}
+
+.grouped-paragraph {
+  text-align: left;
+  width: 598px;
+  height: 663.6px;
+  padding: 0 80px 0 0;
+  margin: 0;
+}
+
+.pem {
+  margin-top: 0;
+}
+
+.groupediconparagraph {
+  display: flex;
+  gap: 8px;
+  height: 33.6px;
+  width: auto;
+  align-items: center;
+  padding: 20px 0;
+}
+
+.purple-circle-icon {
+  width: 32px;
+  height: 33.6px;
+}
+
+.middle-3 {
+  background-color: #f9f5ff;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  padding-left: 184px;
+  padding-right: 184px;
+}
+
+.search-form input[type="search"] {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+  width: 50%;
+}
+
+.meetourambassadors {
+  width: 1062px;
+}
+
+.pem-2 {
+  width: 950px;
+  margin-top: 20px;
+  margin-bottom: 24px;
+}
+
+.search-bar {
+  display: flex;
+  width: fit-content;
+  background-color: #f1f1f1;
+  border: 0.1px solid #ccc;
+  border-radius: 5px;
+  overflow: hidden;
+  margin: auto;
+}
+
+.search-icon {
+  background-color: #ffffff;
+  border: none;
+  padding: 0 10px;
+  cursor: pointer;
+}
+
+input[type="search"] {
+  padding: 15px;
+  border: none;
+  font-size: 16px;
+  width: 1000px;
+}
+
+input[type="search"]:focus {
+  outline: none;
+}
+
+.grid01 {
+  display: flex;
+  gap: 64px;
+}
+
+.Omowaye {
+  margin: 0;
+}
+.obafemi {
+  margin: 0;
+}
+
+.obafemiawolowogrouped {
+  width: 210px;
+  height: 270px;
+  margin: 64px auto;
+}
+
+.droupdown-contain {
+  padding-top: 80px;
+  background-color: #ffffff;
+}
+
+.groupeddroupdown {
+  width: 1015px;
+  margin-top: 60px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+  width: 1015px;
+}
+
+.dropbtn {
+  background-color: #773dd3;
+  color: white;
+  padding: 15px 20px;
+  border: none;
+  font-size: 16px;
+  cursor: pointer;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  border-radius: 8px;
+}
+
+.up {
+  position: relative;
+  left: 750px;
+}
+
+.down-png {
+  position: relative;
+  left: 750px;
+}
+
+.dropdown002 {
+  position: relative;
+  display: inline-block;
+  width: 1015px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.dropbtn002 {
+  background-color: #ffffff;
+  color: #1d1e2c;
+  padding: 15px 20px;
+  border: 1px solid #ccc;
+  font-size: 16px;
+  cursor: pointer;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  border-radius: 8px;
+}
+
+.middle-4 {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.ready-to-join {
+  width: 1280px;
+  background-color: #773dd3;
+  margin: auto;
+  border-radius: 16px;
+  padding-top: 122px;
+  padding-bottom: 132px;
+  padding-left: auto;
+  padding-right: auto;
+  background-image: url(Images/Stroke.png);
+}
+
+.ready-to-joinh1 {
+  font-family: "Nunito Sans", sans-serif;
+  color: #ffffff;
+  margin: 0;
+  font-size: 40px;
+}
+
+.join-grazac {
+  color: #ffffff;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.button03 {
+  margin-top: 20px;
+  color: #773dd3;
+  font-family: Nunito Sans;
+  font-weight: bolder;
+  font-size: 20px;
+  background-color: #ffffff;
+  text-align: center;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  height: 56px;
+  width: 223px;
+}
+
+.last-contain {
+  display: flex;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  padding-left: auto;
+  padding-right: auto;
+}
+
+.Grazac-logo {
+  width: 275px;
+  margin-top: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+}
+
+.company {
+  width: 88px;
+  margin-top: 0;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+}
+
+.what-we-offer {
+  width: 130px;
+  margin-top: 0;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+  gap: 32px;
+}
+
+.strong {
+  color: #1d1e2c;
+}
+
+.footer-p {
+  color: #787676;
+}
+
+.discover {
+  width: 168px;
+  margin-top: 0;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+}
+
+.footlink {
+  text-decoration: none;
+  color: #787676;
+}
+
+hr {
+  width: 960px;
+  border: solid 1px;
+  border-bottom: none;
+
+  color: #eff2f7;
+}
+
+.footer-link {
+  text-decoration: none;
+  color: #787676;
+}
+
+.footer {
+  display: flex;
+  width: 945px;
+  margin: auto;
+  justify-content: space-between;
+  padding-top: 20px;
+  padding-bottom: 40px;
+}
+
+.footer-text {
+  margin: auto;
+  color: #787676;
+}
+
+.socials {
+  height: 20px;
+  margin: auto;
+}
+
+.privacy {
+  gap: 10px;
+  margin: auto;
+}
+
+.header {
+  background-color: #ffffff;
+  padding: 15px;
+  display: flex;
+}
+
+.first-logo {
+  margin-left: 80px;
+  margin-bottom: 18px;
+  margin-top: 12px;
+}
+
+.header nav {
+  margin-left: 450px;
+  text-align: center;
+}
+
+.header nav ul {
+  list-style: none;
+  padding: 0;
+  margin-top: 37.5;
+}
+
+.header nav li {
+  display: inline-block; /* Display list items inline */
+  margin-right: 20px; /* Add some margin between list items */
+}
+
+.header nav a {
+  text-decoration: none; /* Remove underline from links */
+  color: black; /* Text color for links */
+}
+
+.header nav a:hover {
+  color: #ccc; /* Change link color on hover */
+}
